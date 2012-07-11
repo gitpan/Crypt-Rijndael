@@ -1,7 +1,6 @@
 
-1.09 - Sun Jan 17 12:00:33 2010
-	* Clarify in the Makefile.PL that this is under LGPL.
-	* There are no code changes
+1.10 - Wed Jul 11 19:25:12 2012
+	* Add MirBSD support. It's the same options as Sun stuff.
 
 1.08 - Wed Dec  9 18:20:22 2009
 	* Promoting development release to full release.
